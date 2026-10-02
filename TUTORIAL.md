@@ -7,6 +7,15 @@ hand-wired Waveshare ESP32-C5. No prior firmware experience needed.
 
 ---
 
+## ⚠️ Disclaimer
+
+**This project is for educational and authorized security-testing purposes ONLY.**
+Use it **only on devices, networks and systems you own, or have explicit written
+permission to test.** Unauthorized access to, or interference with, networks and
+devices is illegal in most countries. The author provides this for learning and
+takes **no responsibility** for any misuse or damage — **you alone are responsible
+for your actions.** Keep it legal. 🙂
+
 ## 1. What you'll build
 
 A pocket pentest/hacker multitool running [Bruce](https://github.com/pr3y/Bruce):
