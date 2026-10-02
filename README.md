@@ -1,5 +1,7 @@
 # ESP32-C5 Custom Bruce Firmware
 
+🌍 **English** · [Български](README.bg.md)
+
 [Bruce](https://github.com/pr3y/Bruce) firmware ported to a **hand-wired
 Waveshare ESP32-C5** board with an external **ST7789V** display and a
 **KEYES analog joystick**. This repo holds the custom board definition, the
