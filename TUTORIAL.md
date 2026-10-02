@@ -7,14 +7,19 @@ hand-wired Waveshare ESP32-C5. No prior firmware experience needed.
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ DISCLAIMER — READ THIS FIRST
 
-**This project is for educational and authorized security-testing purposes ONLY.**
-Use it **only on devices, networks and systems you own, or have explicit written
-permission to test.** Unauthorized access to, or interference with, networks and
-devices is illegal in most countries. The author provides this for learning and
-takes **no responsibility** for any misuse or damage — **you alone are responsible
-for your actions.** Keep it legal. 🙂
+**This project is STRICTLY for EDUCATION and AUTHORIZED security testing. NOTHING ELSE.**
+
+By downloading, building, flashing or using this firmware you AGREE that:
+
+- You will use it **ONLY** on hardware, networks and systems that are **YOURS**, or that you have **EXPLICIT WRITTEN PERMISSION** to test.
+- Unauthorized access to, jamming of, or interference with ANY device, network or system you do not own is **ILLEGAL** and can be a **serious crime** in virtually every country.
+- **ALL RESPONSIBILITY IS YOURS.** The author and contributors are **NOT LIABLE** for ANY damage, data loss, legal trouble, fines, injuries, or anything else — direct or indirect — caused by the use or misuse of this project.
+- This is provided **"AS IS", with ABSOLUTELY NO WARRANTY** of any kind.
+- If you break the law with this, that is **100% ON YOU.** You were warned, in writing, right here.
+
+**Don't be a criminal. Keep it legal. Stay on your own gear.** 🙂
 
 ## 1. What you'll build
 
