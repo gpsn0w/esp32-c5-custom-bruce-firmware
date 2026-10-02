@@ -9,6 +9,8 @@ required core patches, build/flash instructions, and a ready-to-flash binary.
 > on a hand-wired C5 took several non-obvious fixes (display, input, stability) —
 > all documented below so anyone with the same parts can reproduce it.
 
+📖 **New here? Start with the [step-by-step Tutorial](TUTORIAL.md)** · [Урок на български](TUTORIAL.bg.md)
+
 ## Hardware
 
 | Part | Model |
